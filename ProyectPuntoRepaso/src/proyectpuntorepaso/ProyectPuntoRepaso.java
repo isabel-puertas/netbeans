@@ -125,6 +125,8 @@ public class ProyectPuntoRepaso {
         Punto r1=r.ptoResta(p.ptoSuma(6,4).ptoOpuesto());
         System.out.println("r1="+r1);
         
+        //FIN desde GitHub
+        
     }
     
     
