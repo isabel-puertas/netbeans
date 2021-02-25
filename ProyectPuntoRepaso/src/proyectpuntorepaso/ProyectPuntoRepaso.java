@@ -124,6 +124,7 @@ public class ProyectPuntoRepaso {
         //punto resta entre r y el opuesto de la suma entre p y el punto formado por (6,4).
         Punto r1=r.ptoResta(p.ptoSuma(6,4).ptoOpuesto());
         System.out.println("r1="+r1);
+        //FIN
         
     }
     
