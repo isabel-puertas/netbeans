@@ -1,5 +1,0 @@
-hola
-Modificado en GitHub
-Tercera línea desde local
-Cuarta  línea en remoto
-
